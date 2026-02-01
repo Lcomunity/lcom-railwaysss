@@ -1,0 +1,4 @@
+py-cord[voice]
+yt-dlp
+pydub
+aiohttp
