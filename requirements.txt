@@ -2,3 +2,4 @@ py-cord[voice]
 yt-dlp
 pydub
 aiohttp
+audioop-lts
